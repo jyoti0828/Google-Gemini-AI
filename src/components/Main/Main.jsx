@@ -29,7 +29,7 @@ const Main = () => {
           <>
             <div className="greet">
               <p>
-                <span>Hello, Priyanshu</span>
+                <span>Hello, Jyoti</span>
               </p>
               <p>How can I help you today?</p>
             </div>
