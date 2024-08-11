@@ -5,4 +5,4 @@ Welcome to the Gemini AI Clone repository! This project allows you to create you
 visit - https://my-google-gemini-ai.vercel.app/
 
 Thank you for using my Gemini AI Clone with React! 
-Happy coding!
+<br/>Happy coding!
